@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+name: brh-ai
+routes:
+  - path: /
+build:
+  type: docker
+=======
+name: brh-app
+type: python
+>>>>>>> 2f2e411 (Add initial BRH files)
